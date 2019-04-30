@@ -10,3 +10,11 @@ shell
 
 ​	run command
 
+
+
+## install
+
+```bash
+go get github.com/xiaozefeng/gbdc
+```
+
