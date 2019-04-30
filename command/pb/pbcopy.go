@@ -3,7 +3,7 @@ package command
 import (
 	"fmt"
 
-	"github.com/xiaozefeng/commonlib/command"
+	"github.com/xiaozefeng/gbdc/command"
 )
 
 func Copy(content string) error {

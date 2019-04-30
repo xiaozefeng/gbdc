@@ -3,7 +3,7 @@ package command
 import (
 	"strings"
 
-	"github.com/xiaozefeng/commonlib/command"
+	"github.com/xiaozefeng/gbdc/command"
 )
 
 func Paste() (string, error) {
